@@ -1,0 +1,40 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Blender ----
+*.blend
+*.blend1
+*.blend2
+*.blend@
+*.exr
+*.dds
+*.tga
+
+# ---- Game assets must never be committed (see README > Legal) ----
+*.mesh
+*.material
+*.skeleton
+*.png
+*.jpg
+*.jpeg
+*.hdr
+!docs/*.png
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~

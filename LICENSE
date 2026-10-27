@@ -1,0 +1,27 @@
+TFA Mesh Importer — Non-Commercial Use Only
+===========================================
+
+Copyright (c) 2026 <CypherPunk510>
+
+This project exists for study and research: to learn how a commercial game engine
+stores its models, and to understand binary mesh formats by taking one apart.
+
+You ARE permitted to:
+
+  * read, study and learn from this source code
+  * use it for personal projects, hobby work, research and education
+  * modify it, and share your modifications — provided this notice stays intact
+    and the same terms apply to what you share
+
+You are NOT permitted to:
+
+  * use this software, or any derivative of it, for commercial purposes —
+    this includes selling it, bundling it into a paid product or service,
+    or using it for paid client work
+  * redistribute game assets extracted with it. No game assets are included in
+    this repository, and this licence grants no rights whatsoever to the game's
+    content, which remains the property of its rights holders.
+
+This software is provided "as is", without warranty of any kind, express or
+implied. The authors are not liable for any claim, damage or other liability
+arising from the use of this software.
